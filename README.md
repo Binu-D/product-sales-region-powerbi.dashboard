@@ -21,3 +21,5 @@ The dashboard includes sales analysis, regional performance, product performance
 
 Key Insights
 Insights from the dashboard will be added after completing the analysis.
+
+<img width="1070" height="591" alt="image" src="https://github.com/user-attachments/assets/c4c555db-f988-4b67-b030-6e3192e3b984" />
